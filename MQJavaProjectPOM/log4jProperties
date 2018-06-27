@@ -1,0 +1,20 @@
+# Define the root logger with appender
+log4j.rootLogger = INFO, fout, stdout
+
+# add a FileAppender to the logger fout
+log4j.appender.fout=org.apache.log4j.FileAppender
+# create a log file
+log4j.appender.fout.File=info.log
+log4j.appender.fout.Append=true
+log4j.appender.fout.layout=org.apache.log4j.PatternLayout
+# use a more detailed message pattern
+log4j.appender.fout.layout.ConversionPattern=%d{yyyy-mm-dd HH:mm:ss} %-5p %c{1}:%L - %m%n
+log4j.appender.fout.MaxFileSize=5MB
+
+
+# add a ConsoleAppender to the logger stdout to write to the console
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target=System.out
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+# use a simple message format
+log4j.appender.stdout.layout.ConversionPattern=%d{yyyy-mm-dd HH:mm:ss} %-5p %c{1}:%L - %m%n

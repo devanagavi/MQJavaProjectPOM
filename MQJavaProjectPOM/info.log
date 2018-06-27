@@ -1,0 +1,111 @@
+2018-49-04 21:49:45 INFO  LoginPageSuite:34 - Entering the username
+2018-50-04 21:50:00 INFO  LoginPageSuite:34 - Entering the username
+2018-50-04 21:50:01 INFO  LoginPageSuite:23 - Intializing the Test
+2018-50-04 21:50:01 INFO  TestBase:32 - Opening the browser: chrome
+2018-50-04 21:50:03 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-53-04 21:53:39 INFO  LoginPageSuite:34 - Entering the username
+2018-53-04 21:53:39 INFO  LoginPageSuite:36 - Entering the password
+2018-53-04 21:53:40 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-53-04 21:53:42 INFO  LoginPageSuite:23 - Intializing the Test
+2018-53-04 21:53:42 INFO  TestBase:32 - Opening the browser: chrome
+2018-53-04 21:53:44 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-59-04 21:59:41 INFO  LoginPageSuite:34 - Entering the username
+2018-59-04 21:59:41 INFO  LoginPageSuite:36 - Entering the password
+2018-59-04 21:59:42 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-59-04 21:59:44 INFO  LoginPageSuite:23 - Intializing the Test
+2018-59-04 21:59:44 INFO  TestBase:32 - Opening the browser: chrome
+2018-59-04 21:59:46 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-02-04 22:02:04 INFO  LoginPageSuite:34 - Entering the username
+2018-11-04 22:11:31 INFO  LoginPageSuite:34 - Entering the username
+2018-11-04 22:11:31 INFO  LoginPageSuite:36 - Entering the password
+2018-11-04 22:11:31 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-11-04 22:11:34 INFO  LoginPageSuite:23 - Intializing the Test
+2018-11-04 22:11:34 INFO  TestBase:32 - Opening the browser: chrome
+2018-11-04 22:11:36 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-50-05 07:50:06 INFO  LoginPageSuite:34 - Entering the username
+2018-50-05 07:50:06 INFO  LoginPageSuite:36 - Entering the password
+2018-50-05 07:50:06 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-50-05 07:50:09 INFO  LoginPageSuite:23 - Intializing the Test
+2018-50-05 07:50:09 INFO  TestBase:32 - Opening the browser: chrome
+2018-50-05 07:50:11 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-55-05 07:55:41 INFO  LoginPageSuite:34 - Entering the username
+2018-55-05 07:55:42 INFO  LoginPageSuite:36 - Entering the password
+2018-55-05 07:55:42 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-55-05 07:55:44 INFO  LoginPageSuite:23 - Intializing the Test
+2018-55-05 07:55:44 INFO  TestBase:32 - Opening the browser: chrome
+2018-55-05 07:55:46 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-10-05 08:10:14 INFO  LoginPageSuite:34 - Entering the username
+2018-10-05 08:10:14 INFO  LoginPageSuite:36 - Entering the password
+2018-10-05 08:10:14 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-10-05 08:10:16 INFO  LoginPageSuite:23 - Intializing the Test
+2018-10-05 08:10:16 INFO  TestBase:32 - Opening the browser: chrome
+2018-10-05 08:10:18 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-11-05 08:11:35 INFO  LoginPageSuite:34 - Entering the username
+2018-11-05 08:11:35 INFO  LoginPageSuite:36 - Entering the password
+2018-11-05 08:11:35 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-11-05 08:11:37 INFO  LoginPageSuite:23 - Intializing the Test
+2018-11-05 08:11:37 INFO  TestBase:32 - Opening the browser: chrome
+2018-11-05 08:11:39 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-27-05 08:27:12 INFO  LoginPageSuite:34 - Entering the username
+2018-27-05 08:27:13 INFO  LoginPageSuite:36 - Entering the password
+2018-27-05 08:27:13 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-27-05 08:27:15 INFO  LoginPageSuite:23 - Intializing the Test
+2018-27-05 08:27:15 INFO  TestBase:32 - Opening the browser: chrome
+2018-27-05 08:27:17 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-38-05 08:38:07 INFO  LoginPageSuite:34 - Entering the username
+2018-38-05 08:38:08 INFO  LoginPageSuite:36 - Entering the password
+2018-38-05 08:38:08 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-38-05 08:38:09 INFO  LoginPageSuite:23 - Intializing the Test
+2018-38-05 08:38:09 INFO  TestBase:32 - Opening the browser: chrome
+2018-38-05 08:38:12 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-42-24 11:42:47 INFO  LoginPageSuite:34 - Entering the username
+2018-42-24 11:42:48 INFO  LoginPageSuite:36 - Entering the password
+2018-42-24 11:42:48 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-42-24 11:42:54 INFO  LoginPageSuite:23 - Intializing the Test
+2018-42-24 11:42:54 INFO  TestBase:32 - Opening the browser: chrome
+2018-42-24 11:42:56 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-05-24 12:05:00 INFO  LoginPageSuite:34 - Entering the username
+2018-05-24 12:05:01 INFO  LoginPageSuite:36 - Entering the password
+2018-05-24 12:05:01 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-05-24 12:05:03 INFO  LoginPageSuite:23 - Intializing the Test
+2018-05-24 12:05:03 INFO  TestBase:32 - Opening the browser: chrome
+2018-05-24 12:05:06 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-19-24 12:19:21 INFO  LoginPageSuite:34 - Entering the username
+2018-19-24 12:19:22 INFO  LoginPageSuite:36 - Entering the password
+2018-19-24 12:19:22 INFO  LoginPageSuite:38 - clicked on Login Button
+2018-19-24 12:19:24 INFO  LoginPageSuite:23 - Intializing the Test
+2018-19-24 12:19:24 INFO  TestBase:32 - Opening the browser: chrome
+2018-19-24 12:19:26 INFO  TestBase:27 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-24-24 12:24:47 INFO  LoginPageSuite:38 - Entered the username: Admin
+2018-24-24 12:24:48 INFO  LoginPageSuite:40 - Entered the password: admin123
+2018-24-24 12:24:48 INFO  LoginPageSuite:41 - clicked on Login Button
+2018-24-24 12:24:50 INFO  LoginPageSuite:23 - Intializing the Test
+2018-24-24 12:24:50 INFO  TestBase:34 - Opening the browser: chrome
+2018-24-24 12:24:52 INFO  TestBase:29 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-25-24 12:25:54 INFO  LoginPageSuite:38 - Entered the username: Admin
+2018-25-24 12:25:54 INFO  LoginPageSuite:40 - Entered the password: admin123
+2018-25-24 12:25:54 INFO  LoginPageSuite:41 - clicked on Login Button
+2018-25-24 12:25:57 INFO  LoginPageSuite:23 - Intializing the Test
+2018-25-24 12:25:57 INFO  TestBase:34 - Opening the browser: chrome
+2018-25-24 12:25:59 INFO  TestBase:29 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-26-24 12:26:02 INFO  LoginPageSuite:60 - Entered the username: Admin
+2018-26-24 12:26:02 INFO  LoginPageSuite:62 - Entered the password: admin
+2018-26-24 12:26:02 INFO  LoginPageSuite:63 - clicked on Login Button
+2018-03-03 12:03:03 INFO  LoginPageSuite:38 - Entered the username: Admin
+2018-03-03 12:03:03 INFO  LoginPageSuite:40 - Entered the password: admin123
+2018-03-03 12:03:03 INFO  LoginPageSuite:41 - clicked on Login Button
+2018-03-03 12:03:05 INFO  LoginPageSuite:23 - Intializing the Test
+2018-03-03 12:03:05 INFO  TestBase:34 - Opening the browser: chrome
+2018-03-03 12:03:07 INFO  TestBase:29 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-03-03 12:03:10 INFO  LoginPageSuite:60 - Entered the username: Admin
+2018-03-03 12:03:10 INFO  LoginPageSuite:62 - Entered the password: admin
+2018-03-03 12:03:10 INFO  LoginPageSuite:63 - clicked on Login Button
+2018-04-03 12:04:27 INFO  LoginPageSuite:38 - Entered the username: Admin
+2018-04-03 12:04:27 INFO  LoginPageSuite:40 - Entered the password: admin123
+2018-04-03 12:04:27 INFO  LoginPageSuite:41 - clicked on Login Button
+2018-04-03 12:04:28 INFO  LoginPageSuite:23 - Intializing the Test
+2018-04-03 12:04:28 INFO  TestBase:34 - Opening the browser: chrome
+2018-04-03 12:04:30 INFO  TestBase:29 - Navigating to the URL: http://opensource.demo.orangehrmlive.com/
+2018-04-03 12:04:34 INFO  LoginPageSuite:60 - Entered the username: Admin
+2018-04-03 12:04:34 INFO  LoginPageSuite:62 - Entered the password: admin
+2018-04-03 12:04:34 INFO  LoginPageSuite:63 - clicked on Login Button
